@@ -17,7 +17,7 @@ body {
     background: white;
     display: inline-block;
     transform-origin: bottom center;
-    animation: loading 3.5s ease-in-out infinite;
+    animation: loading 3.0s ease-in-out infinite;
 }
 
 .bar1 {
@@ -229,6 +229,15 @@ h1 {
 }
 
 .cancelation a {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a::after {
     text-decoration: none;
 }
 
