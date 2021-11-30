@@ -184,6 +184,10 @@ a:hover {
     transition-property: box-shadow, transform;
 }
 
+.LoginText {
+    text-align: center;
+}
+
 .btn:hover,
 .btn:focus,
 .btn:active {
