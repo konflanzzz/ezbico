@@ -131,7 +131,7 @@ a {
 .btn_cancelar {
     display: inline;
     margin: 10px;
-    width: 40%;
+    width: 50%;
     height: 50px;
     border-radius: 25px;
     outline: none;
@@ -151,7 +151,7 @@ a {
 .btn_aceitar {
     display: inline;
     margin: 10px;
-    width: 40%;
+    width: 50%;
     height: 50px;
     border-radius: 25px;
     outline: none;
